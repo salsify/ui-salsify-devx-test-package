@@ -1,6 +1,6 @@
 {
   "name": "salsify-devx-test-package",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A test package used by DevX.",
   "engines": {
     "node": ">= 10.*"
