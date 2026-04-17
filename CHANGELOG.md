@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## v0.0.5 - 2026-04-17
+
+- A test change. @jpamaro
+
+## v0.0.4 - 2025-12-12
+
+- A test change. @NoahGentry
+
 ## v0.0.3 - 2022-02-22
 
 - A test change. @joshbranham
